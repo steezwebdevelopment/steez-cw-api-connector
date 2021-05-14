@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration tool_path="$USER_HOME$/Sites/goosecraft/data/web/magento2/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
-    </phpcs_settings>
-  </component>
-</project>
